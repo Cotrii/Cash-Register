@@ -1,6 +1,6 @@
 /* 
 * Description: Program that acts as a cash register that peforms transactions and generate a report of all the transactions in the program run
-* Name : Cortez, Carlo Miguel W.  ID No. : 12043079   Section: S22
+* Name : Cortez, Carlo Miguel W.  Section: S22
 * Last modified: January 31, 2021
 * Version : 2.00
 */
